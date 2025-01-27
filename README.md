@@ -71,6 +71,6 @@ Are you looking for a skilled technical writer who can transform complex technic
 
 I look forward to collaborating with you to create documentation that adds value to your users and your organization.  
 
-- **GitHub**: [Lavanya Ratha](https://github.com/LavanyaRatha)  
+- **GitHub**: [LavanyaRatha](https://github.com/Lavanya-s-Hub/Portfolio)  
 - **LinkedIn**: [Lavanya Ratha](https://www.linkedin.com/in/lavanyaratha)  
 - **Email**: lavanyaratha@gmail.com  
