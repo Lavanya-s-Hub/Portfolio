@@ -49,7 +49,7 @@ I design user-focused guides and manuals that improve product usability and cust
 - **Troubleshooting Resources**: Enabling users to resolve common issues independently.  
 - **FAQ Sections**: Anticipating and addressing user pain points.
 - **Sample**: [Sample User Guide](https://github.com/Lavanya-s-Hub/Portfolio/wiki/User-guide-for-Uber-Rides)
-- **Sample**: [Sample Quick Start Guide](https://github.com/Lavanya-s-Hub/Portfolio/wiki/Quick-Start-Guide-to-Google-on-Desktop-and-Mobile-Phone)
+- **Sample**: [Sample Quick Start Guide](https://github.com/Lavanya-s-Hub/Portfolio/wiki/Quick-Start-Guide-to-Gmail-on-Desktop-and-Mobile-Phone)
 - **Sample**: [Sample Procedure Writing](https://github.com/Lavanya-s-Hub/Portfolio/wiki/Procedure-to-Create-an-Account-in-GitHub)
 
 #### **4. Software Release Documentation**
