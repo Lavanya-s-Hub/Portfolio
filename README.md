@@ -32,7 +32,8 @@ I craft developer-focused API documentation that simplifies the integration proc
 - **Endpoint Descriptions**: Highlighting functionality and use cases for various endpoints.  
 - **Request and Response Samples**: Providing real-world examples with detailed parameters and outputs.  
 - **Authentication Workflows**: Clarifying authentication methods and security practices.  
-- **Error Handling**: Ensuring developers can troubleshoot effectively with detailed error code descriptions and solutions.  
+- **Error Handling**: Ensuring developers can troubleshoot effectively with detailed error code descriptions and solutions.
+- **Sample**: [Sample API Document](https://github.com/Lavanya-s-Hub/Portfolio/wiki/This-is-a-fictional-API-of-an-E%E2%80%90mail-marketing-platform-called-Emailer.)
 
 #### **2. Project README Files**  
 I create polished and professional README files that quickly convey the core purpose of your project, including:  
@@ -46,7 +47,10 @@ I create polished and professional README files that quickly convey the core pur
 I design user-focused guides and manuals that improve product usability and customer satisfaction. My work includes:  
 - **Step-by-Step Instructions**: Tailored to non-technical users for seamless onboarding.  
 - **Troubleshooting Resources**: Enabling users to resolve common issues independently.  
-- **FAQ Sections**: Anticipating and addressing user pain points.  
+- **FAQ Sections**: Anticipating and addressing user pain points.
+- **Sample**: [Sample User Guide](https://github.com/Lavanya-s-Hub/Portfolio/wiki/User-guide-for-Uber-Rides)
+- **Sample**: [Sample Quick Start Guide](https://github.com/Lavanya-s-Hub/Portfolio/wiki/Quick-Start-Guide-to-Google-on-Desktop-and-Mobile-Phone)
+- **Sample**: [Sample Procedure Writing](https://github.com/Lavanya-s-Hub/Portfolio/wiki)
 
 #### **4. Software Release Documentation**
 I specialize in creating clear and accurate documentation to support software release cycles, ensuring a seamless transition from development to deployment. This includes:  
