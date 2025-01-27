@@ -48,11 +48,18 @@ I design user-focused guides and manuals that improve product usability and cust
 - **Troubleshooting Resources**: Enabling users to resolve common issues independently.  
 - **FAQ Sections**: Anticipating and addressing user pain points.  
 
-#### **4. Open-Source Documentation Contributions**  
-I am passionate about making meaningful contributions to open-source projects by:  
-- Refining and expanding existing documentation for clarity and consistency.  
-- Writing new sections for under-documented features.  
-- Developing beginner-friendly tutorials to help users and contributors engage effectively with projects.  
+#### **4. Software Release Documentation**
+I specialize in creating clear and accurate documentation to support software release cycles, ensuring a seamless transition from development to deployment. This includes:  
+- **Release Notes**:
+Detailing new features, bug fixes, and known issues to keep stakeholders informed.
+- **Change Logs**:
+Providing an organized record of updates for both internal and external use.
+- **Deployment Guides**:
+Assisting teams with step-by-step instructions for software installation, updates, and configuration.
+- **System Requirements Documentation**:
+Clearly outlining hardware, software, and compatibility prerequisites for smooth implementation.
+- **Migration Guides**:
+Creating resources that facilitate smooth transitions during upgrades or platform changes.
 
 ---
 
