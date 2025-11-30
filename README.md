@@ -3,13 +3,13 @@
 ---
 
 ### About Me  
-👋 Hi, I’m [Lavanya Ratha](https://www.linkedin.com/in/lavanyaratha)  
+Hi, I’m [Lavanya Ratha](https://www.linkedin.com/in/lavanyaratha)  
 I am a results-driven technical writer with a strong passion for delivering high-quality documentation that bridges the gap between complex technical concepts and user understanding. With expertise in creating developer-friendly resources and user-centric manuals, I excel in producing accurate, concise, and engaging content that empowers users and drives project success.  
 
 I specialize in API documentation, software manuals, and project guides, with a focus on improving user experience, streamlining workflows, and enhancing product adoption. My commitment to continuous learning ensures I stay at the forefront of industry standards and tools.
 
-👀 I’m interested in **Technical Writing, Documentation Strategy, and UX Writing**  
-🌱 Currently honing my skills in **Markdown, API Documentation, DITA XML, and HTML**  
+I’m interested in **Technical Writing, Documentation Strategy, and UX Writing**  
+Currently honing my skills in **Markdown, API Documentation, DITA XML, and HTML**  
 
 ---
 
@@ -67,7 +67,7 @@ Creating resources that facilitate smooth transitions during upgrades or platfor
 
 ---
 
-### 📫 Let’s Work Together  
+###  Let’s Work Together  
 
 Are you looking for a skilled technical writer who can transform complex technical information into clear, concise, and engaging documentation? Whether it's API documentation, user guides, or release notes, I bring expertise and a user-first approach to every project. 
 
